@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FiveForm\FiveForm\bin\Debug\FiveForm.exe.config
+C:\Users\User\source\repos\FiveForm\FiveForm\bin\Debug\FiveForm.exe
+C:\Users\User\source\repos\FiveForm\FiveForm\bin\Debug\FiveForm.pdb
+C:\Users\User\source\repos\FiveForm\FiveForm\obj\Debug\FiveForm.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FiveForm\FiveForm\obj\Debug\FiveForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\FiveForm\FiveForm\obj\Debug\FiveForm.FiveForm.resources
+C:\Users\User\source\repos\FiveForm\FiveForm\obj\Debug\FiveForm.Properties.Resources.resources
+C:\Users\User\source\repos\FiveForm\FiveForm\obj\Debug\FiveForm.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FiveForm\FiveForm\obj\Debug\FiveForm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FiveForm\FiveForm\obj\Debug\FiveForm.exe
+C:\Users\User\source\repos\FiveForm\FiveForm\obj\Debug\FiveForm.pdb
